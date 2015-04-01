@@ -1,0 +1,12 @@
+{
+  "name": "django-as-a-toy",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "gulp-stylus": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guicheffeR/django-as-a-toy.git"
+  }
+}
